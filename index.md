@@ -8,7 +8,8 @@
 
 ## Credentials
 - ![book!](/book.png) Published Author ["Metrics for agile Teams"](https://www.amazon.in/Metrics-Agile-Product-Teams-Illustrated-ebook/dp/B0925X6HHX/ref=sr_1_1?crid=25CP1YALE529M&keywords=guru+thimmapuram&qid=1648108981&sprefix=guru+thimmapuram%2Caps%2C357&sr=8-1)
+
 - Conference Speaker
-  -Recently spoke @
+  - Recently spoke @
   
 ## Experience and Expertise
