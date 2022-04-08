@@ -1,6 +1,6 @@
 ![Guru!](https://www.gravatar.com/avatar/1314d13790c05bd365b71d3559a02ab4?s=200)
 
-<p style="align=center">[![GuruLinkedIn](/LinkedIn.png)](https://www.linkedin.com/in/guru-thimmapuram-4337a525/)</p>
+[![GuruLinkedIn](/LinkedIn.png)](https://www.linkedin.com/in/guru-thimmapuram-4337a525/)
 # Guru Thimmapuam 
 > ### My Mission
   > Enable individuals, teams , organizations to unlock their full potential to achieve their goals and to become better and happier than they are, through coaching
