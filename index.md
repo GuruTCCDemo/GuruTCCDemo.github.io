@@ -24,3 +24,4 @@
 - Experienced professional in large scale agile transformations, lean portfolio management and Organization design consulting
 
 - Experienced professional in Technical agility hands on coaching
+more..
