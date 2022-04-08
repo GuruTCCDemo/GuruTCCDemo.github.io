@@ -11,6 +11,8 @@
 
 - Conference Speaker
   - Recently spoke @
+
+- SAFe Program Consultant 5 : Trained and Certified 800+ leaders, managers, teams on various SAFe certifications
   
 ## Experience and Expertise
 - Worked with renowned industry giants Cognizant, Infosys, Accenture, Philips, Shell and currently working with Europian Financial services top player Societe Generale as Enterprise Agile Coach
