@@ -16,3 +16,11 @@
 
 - SAFe Program Consultant 5 : Trained and Certified 800+ leaders, managers, teams on various SAFe certifications
 
+## Experience and Expertise
+
+- Worked with renowned industry giants Cognizant, Infosys, Accenture, Philips, Shell and currently working with Europian Financial services top player Societe Generale as Enterprise Agile Coach
+
+- Demonstrated experience in Team, Leadership and Product management coaching and consulting
+
+- Experienced professional in large scale agile transformations, lean portfolio management and Organization design consulting
+
